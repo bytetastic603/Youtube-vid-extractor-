@@ -4,11 +4,11 @@ A simple application developed by **Bytetastic App Productions** for downloading
 
 ## Download
 
-**[Download the latest version](YOUR-GITHUB-RELEASES-LINK)**
+**[Download the latest version](https://github.com/bytetastic603/Youtube-vid-extractor-/releases/latest)**
 
 1. Open the latest GitHub Release.
 2. Scroll down to the **Assets** section.
-3. Download the application executable.
+3. Download `Youtube vid extractor.exe`.
 4. Open the downloaded application.
 
 > Always download the application from the official GitHub repository.
@@ -25,7 +25,7 @@ A simple application developed by **Bytetastic App Productions** for downloading
 
 ## How to use?
 
-1. Launch `YouTube Video Downloader`.
+1. Launch `Youtube vid extractor.exe`.
 2. Copy the URL of a YouTube video or playlist you are authorised to download.
 3. Paste the URL into the input field.
 4. The application will begin processing the URL.
@@ -56,11 +56,11 @@ Depending on the available tools and formats, these streams may be saved separat
 
 - A compatible Windows environment.
 - An internet connection.
-- Any additional dependencies required by the application, including FFmpeg where needed for merging audio and video.
+- Additional dependencies required by the application, including FFmpeg where needed for merging audio and video.
 
 ## Updating
 
-1. Visit the [GitHub Releases page](YOUR-GITHUB-RELEASES-LINK).
+1. Visit the [GitHub Releases page](https://github.com/bytetastic603/Youtube-vid-extractor-/releases).
 2. Download the latest version from the Assets section.
 3. Replace your previous copy with the updated version.
 
@@ -72,16 +72,4 @@ If you experience any issues, please contact the developer through the email add
 
 Please include a description of the issue and any relevant screenshots.
 
-**Scam warning:** Be cautious of anyone pretending to be the developer or offering unofficial support. Suspicious messages and attempted scams will be reported to the appropriate platforms.
-
-## Responsible Use
-
-Only download videos that you own or have permission to download. Respect copyright laws and YouTube's Terms of Service.
-
-## About
-
-YouTube Video Downloader is a utility developed by **Bytetastic App Productions**.
-
----
-
-**Copyright © 2026 Bytetastic App Productions. All rights reserved.**
+**Scam warning:** Be cautious of anyone pretending to be the developer or offering
